@@ -21,6 +21,7 @@ public class Demo01 {
         //遍历集合对象;
         for (int i = 0; i < arr.size(); i++) {
             System.out.println("第"+i+"元素:"+arr.get(i));
+            //123
         }
     }
 }
