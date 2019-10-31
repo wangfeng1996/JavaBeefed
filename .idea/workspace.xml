@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c94a0359-df82-4eb2-ae30-9a8da8b04a6d" name="Default Changelist" comment="" />
+    <list default="true" id="c94a0359-df82-4eb2-ae30-9a8da8b04a6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasic/JavaBasic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_code/day01_code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_code/src/com/day01/demo01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day01_code/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_code/src/com/day01/demo01/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day01_code/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_code/src/com/day01/demo01/Phone01.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day01_code/Phone01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_code/src/com/day01/demo01/PhoneDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day01_code/PhoneDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_code/src/com/day01/demo01/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day01_code/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_code/src/com/day01/demo01/StudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day01_code/StudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_code/day02_code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_code/src/com/day02/demo01/Demo01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03_code/src/com/day03private/test01/Demo01Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day02_code/test01/Demo01Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03_code/src/com/day03private/test01/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day02_code/test01/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03_code/src/com/day03private/test01/PersonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day02_code/test01/PersonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03_code/src/com/day03private/test02/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day02_code/test02/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03_code/src/com/day03private/test02/studentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day02_code/test02/studentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03_code/src/com/day03private/test03this/thisDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day02_code/test03this/thisDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03_code/src/com/day03private/test04/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day02_code/test04/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03_code/src/com/day03private/test04/studentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day02_code/test04/studentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04_code/src/test01Api/ScannerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day03_code/test02/ScannerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04_code/src/test01Api/scannerNumberMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day03_code/test02/scannerNumberMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04_code/src/test02/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day03_code/test03/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04_code/src/test02/personTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day03_code/test03/personTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04_code/src/test03/RandomTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day03_code/test01/RandomTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04_code/src/test03/RandomTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/day03_code/test01/RandomTest02.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +60,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1SgakRsUZm4uZ0BxFl4XPi8h1oK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="D:/Git/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -61,11 +92,11 @@
   </component>
   <component name="RunManager" selected="Application.Demo01">
     <configuration name="ArrayListBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test01.ArrayListBasic" />
-      <module name="day05_code" />
+      <option name="MAIN_CLASS_NAME" value="day04_code.test01.ArrayListBasic" />
+      <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test01.*" />
+          <option name="PATTERN" value="day04_code.test01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test02.Demo01" />
+      <option name="MAIN_CLASS_NAME" value="day03_code.test01.test02.Demo01" />
       <module name="day05_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test02.*" />
+          <option name="PATTERN" value="day03_code.test01.test02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,11 +118,11 @@
       </method>
     </configuration>
     <configuration name="RandomTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test03.RandomTest02" />
+      <option name="MAIN_CLASS_NAME" value="day03_code.test01.test03.RandomTest02" />
       <module name="day04_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test03.*" />
+          <option name="PATTERN" value="day03_code.test01.test03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +131,11 @@
       </method>
     </configuration>
     <configuration name="TravsingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test01.TravsingArrayList" />
-      <module name="day05_code" />
+      <option name="MAIN_CLASS_NAME" value="day04_code.test01.TravsingArrayList" />
+      <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test01.*" />
+          <option name="PATTERN" value="day04_code.test01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +144,11 @@
       </method>
     </configuration>
     <configuration name="arrayListDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test01.arrayListDemo01" />
-      <module name="day05_code" />
+      <option name="MAIN_CLASS_NAME" value="day04_code.test01.arrayListDemo01" />
+      <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test01.*" />
+          <option name="PATTERN" value="day04_code.test01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +183,37 @@
       <workItem from="1572357670083" duration="3683000" />
       <workItem from="1572402680867" duration="11253000" />
       <workItem from="1572506244372" duration="6703000" />
-      <workItem from="1572523764975" duration="6945000" />
+      <workItem from="1572523764975" duration="8513000" />
+      <workItem from="1572533162500" duration="868000" />
     </task>
+    <task id="LOCAL-00001" summary="添加注释信息">
+      <created>1572532486007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572532486007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加注释信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加注释信息" />
   </component>
 </project>
