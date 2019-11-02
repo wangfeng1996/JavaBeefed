@@ -13,7 +13,7 @@ import java.util.Arrays;
 public class Demo01 {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};
-        //将数组的默认格式转变为字符串
+        //将数组的默认格式转变为字符chuan
         String string = Arrays.toString(arr);
         System.out.println(string);
         int[] arr1 = {52, 8, 32, 56, 4};
