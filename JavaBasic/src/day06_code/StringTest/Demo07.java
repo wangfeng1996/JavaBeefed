@@ -1,4 +1,4 @@
-package day06_code.String;
+package day06_code.StringTest;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package day06_code.String;
+package day06_code.StringTest;
 
 /**
  * 定义一个方法，把数组{1，2，3}按照一定的格式拼接成一个字符串[word1#word2#word3].
