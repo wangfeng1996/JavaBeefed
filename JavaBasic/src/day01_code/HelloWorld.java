@@ -11,7 +11,6 @@ public class HelloWorld {
         int s1 = sc.nextInt();
         System.out.println("请输入第二个数字！");
         int s2 = sc.nextInt();
-
         System.out.println("最终答案是："+(s1+s2));
     }
 }
